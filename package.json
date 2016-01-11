@@ -1,0 +1,37 @@
+{
+  "name": "ngdiary",
+  "version": "1.0.0",
+  "description": "an angular js diary application with a API layer built on top of the MEAN stack",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-animate": "^1.4.8",
+    "angular-aria": "^1.4.8",
+    "angular-material": "^1.0.1",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.3.5",
+    "nodemon": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctodmia/ngDiary.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angular",
+    "material",
+    "javascript"
+  ],
+  "author": "Carine Todmia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctodmia/ngDiary/issues"
+  },
+  "homepage": "https://github.com/ctodmia/ngDiary#readme"
+}
